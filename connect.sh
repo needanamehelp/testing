@@ -1,2 +1,2 @@
 echo "test"
-az login
+az vm list
